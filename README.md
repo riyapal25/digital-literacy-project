@@ -26,3 +26,6 @@ navigating the digital world confidently and safely.
 Canva (canva.com) — free, browser-based design tool
 ### Link
 🔗 [View Infographic](task-1-presentation/Digital_Literacy_Infographic.pdf)
+
+---
+
