@@ -45,3 +45,6 @@ For Task 2, I have built my digital portfolio by creating profiles on GitHub, Li
 | GitHub Profile | [View Screenshot](task-2-portfolio/github-profile.png) |
 | LinkedIn Profile | [View Screenshot](task-2-portfolio/linkedIn-profile.jpeg) |
 | ResearchGate Profile | [View Screenshot](task-2-portfolio/researchgate-profile.jpeg) |
+
+
+
