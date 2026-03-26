@@ -29,3 +29,18 @@ Canva (canva.com) — free, browser-based design tool
 
 ---
 
+## Task 2 — Student Digital Portfolio
+
+### Platforms Set Up
+| Platform | Purpose | Profile Link |
+|---|---|---|
+| GitHub | Code hosting & project showcase | [My GitHub](https://github.com/riyapal25) |
+| LinkedIn | Professional networking & career | [My LinkedIn](https://linkedin.com/in/riya-pal-522512387) |
+| ResearchGate | Academic research & publications | [My ResearchGate](https://researchgate.net/profile/Riya-Pal-7?ev=hdr_xprf) |
+
+### Files
+| File | Description |
+|---|---|
+| `task-2-portfolio/github-profile.png` | GitHub profile screenshot |
+| `task-2-portfolio/linkedin-profile.png` | LinkedIn profile screenshot |
+| `task-2-portfolio/researchgate-profile.png` | ResearchGate profile screenshot |
