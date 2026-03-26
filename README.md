@@ -46,5 +46,20 @@ For Task 2, I have built my digital portfolio by creating profiles on GitHub, Li
 | LinkedIn Profile | [View Screenshot](task-2-portfolio/linkedIn-profile.jpeg) |
 | ResearchGate Profile | [View Screenshot](task-2-portfolio/researchgate-profile.jpeg) |
 
+---
 
+## Task 3 — Coding & Collaboration Platforms
 
+For Task 3, I completed a beginner coding challenge on
+**HackerRank**  and created a Digital Literacy Awareness Quiz
+using **Google Forms** and linked it to Google Sheet for response
+tracking.
+
+Part A, I have created an account on HackerRank and completed a beginner level Python problem.   
+| HackerRank Challenge | [View Screenshot](task-3-platforms/hackerrank.png) |
+
+Part B, I created a Google form titled " Digital Literacy Awareness Quiz " with multiple choice and short answer type questions and linked to Google Sheets for viewing responses.                    
+Google Form Link-[Digital Literacy Awareness Quiz](https://forms.gle/bc2ZgieZDEqhq4os5)  
+
+| Google Form | [View Screenshot](task-3-platforms/google-form.png) |                   
+| Google Sheet | [View Screenshot](task-3-platforms/google-sheet.png) |
