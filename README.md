@@ -39,8 +39,4 @@ Canva (canva.com) — free, browser-based design tool
 | ResearchGate | Academic research & publications | [My ResearchGate](https://researchgate.net/profile/Riya-Pal-7?ev=hdr_xprf) |
 
 ### Files
-| File | Description |
-|---|---|
-| `[task-2-portfolio/github-profile.png](https://github.com/riyapal25/digital-literacy-project/blob/main/task-2-portfolio/github-profile.png?raw=true)` | GitHub profile screenshot |
-| `task-2-portfolio/linkedIn-profile.jpeg` | LinkedIn profile screenshot |
-| `task-2-portfolio/researchgate-profile.jpeg` | ResearchGate profile screenshot |
+[GitHub Profile Screenshot](task-2-portfolio/github-profile.png) 
