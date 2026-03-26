@@ -17,7 +17,6 @@ covering digital tools, digital portfolios ,coding & collaboration platforms, pr
 
 ## Task 1 — Digital Literacy Awareness Infographic
 
-### Summary
 For Task 1, I designed a one-page infographic on Digital
 Literacy using Canva.The goal was to create a simple, visually clear resource
 that helps fellow students understand the basics of
@@ -31,6 +30,7 @@ Canva (canva.com) — free, browser-based design tool
 
 ## Task 2 — Student Digital Portfolio
 
+For Task 2, I have built my digital portfolio by creating profiles on GitHub, LinkedIn and ResearchGate.
 ### Platforms
 | Platform | Purpose | Profile Link |
 |---|---|---|
@@ -39,4 +39,9 @@ Canva (canva.com) — free, browser-based design tool
 | ResearchGate | Academic research & publications | [My ResearchGate](https://researchgate.net/profile/Riya-Pal-7?ev=hdr_xprf) |
 
 ### Files
-[GitHub Profile Screenshot](task-2-portfolio/github-profile.png) 
+
+| Screenshot | 🔗 Link |
+|---|---|
+| GitHub Profile | [View Screenshot](task-2-portfolio/github-profile.png) |
+| LinkedIn Profile | [View Screenshot](task-2-portfolio/linkedIn-profile.jpeg) |
+| ResearchGate Profile | [View Screenshot](task-2-portfolio/researchgate-profile.jpeg) |
