@@ -9,7 +9,7 @@ The Aadhaar Data Breach — When Personal Identity Gets Stolen
 Identity theft is one of the most serious forms of cybercrime
 in which a fraudster illegally obtains and uses another
 person's personal information — such as their name, Aadhaar
-number, bank details, or PAN card — without their knowledge
+number, bank details, or PAN card without their knowledge
 or consent, typically for financial gain. In India, one of
 the most significant and widely reported identity theft
 incidents involved the alleged breach of the Aadhaar
@@ -48,7 +48,7 @@ identity data within minutes.
 
 ## Who Was Targeted
 The breach affected virtually every Indian citizen enrolled
-in the Aadhaar system — approximately 1.1 billion people.
+in the Aadhaar system approximately 1.1 billion people.
 However, the most vulnerable targets were individuals who
 were unaware of how their Aadhaar data could be misused,
 including students, rural citizens, senior citizens, and
@@ -61,7 +61,7 @@ and mobile numbers.
 The consequences of this breach were far reaching. Stolen
 Aadhaar data could be used to open fraudulent bank accounts,
 apply for loans in someone else's name, obtain fake SIM
-cards, and commit financial fraud — all without the victim's
+cards, and commit financial fraud all without the victim's
 knowledge. Beyond financial loss, victims faced serious
 threats to their personal privacy and digital identity.
 The incident raised major concerns about data security
