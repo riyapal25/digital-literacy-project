@@ -20,11 +20,9 @@ covering digital tools, digital portfolios ,coding & collaboration platforms, pr
 For Task 1, I designed a one-page infographic on Digital
 Literacy using Canva.The goal was to create a simple, visually clear resource
 that helps fellow students understand the basics of
-navigating the digital world confidently and safely.
-### Tool Used
-Canva (canva.com) — free, browser-based design tool
-### Link
-🔗 [View Infographic](task-1-presentation/Digital_Literacy_Infographic.pdf)
+navigating the digital world confidently and safely.<br>
+Canva (canva.com) — free, browser-based design tool<br>
+[View Infographic](task-1-presentation/Digital_Literacy_Infographic.pdf)
 
 ---
 
@@ -63,3 +61,16 @@ Google Form Link-[Digital Literacy Awareness Quiz](https://forms.gle/bc2ZgieZDEq
 
 | Google Form | [View Screenshot](task-3-platforms/google-form.png) |                   
 | Google Sheet | [View Screenshot](task-3-platforms/google-sheet.png) |
+
+---
+
+## Task 4 — Professional Email and Social Media Etiquettes
+
+For Task 4, I have practiced writing professional emails and created a social media checklist for college students.  
+
+Part A, I wrote two emails. The first email was addressed to a professor requesting an extension on an assignment submission deadline. The second one was addressed to an internship coordinator in a company expressing interest in a summer internship opportunity.<br>
+[View Email drafts](task-4-email-etiquette/email.md)
+
+Part B, I havve created a Social Media Etiquette Guide which includes 
+Do's and Don'ts of Social Media for college students.<br>
+[Social Media Checklist](task-4-email-etiquette/social-media-checklist.md)
