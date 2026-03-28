@@ -14,6 +14,31 @@ at VIT Bhopal University. It documents my work across 5 tasks
 covering digital tools, digital portfolios ,coding & collaboration platforms, professional email & etiquette guide and cybercrime awareness & prevention guide.
 
 ---
+## Repository Structure
+
+digital-literacy-project/<br>
+│<br>
+├── report/<br>
+│   └── Project_report.pdf<br>
+├── task-1-presentation/<br>
+│   └── Digital_Literacy_Infographic.pdf<br>
+├── task-2-portfolio/<br>
+│   ├── github-profile.png<br>
+│   ├── linkedIn-profile.jpeg<br>
+│   └── researchgate-profile.jpeg<br>
+├── task-3-platforms/<br>
+│   ├── google-form.png<br>
+│   ├── google-sheet.png<br>
+│   └── hackerrank.png<br>
+├── task-4-email-etiquette/<br>
+│   ├── email.md<br>
+│   └── social-media-checklist.md<br>
+└── task-5-cybercrime/<br>
+│   ├── casestudy.md<br>
+│   └── prevention-checklist.md<br>
+└── README.md<br>
+
+---
 
 ## Task 1 — Digital Literacy Awareness Infographic
 
