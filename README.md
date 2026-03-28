@@ -64,7 +64,7 @@ Google Form Link-[Digital Literacy Awareness Quiz](https://forms.gle/bc2ZgieZDEq
 
 ---
 
-## Task 4 — Professional Email and Social Media Etiquettes
+## Task 4 — Professional Email & Social Media Etiquettes
 
 For Task 4, I have practiced writing professional emails and created a social media checklist for college students.  
 
@@ -74,3 +74,36 @@ Part A, I wrote two emails. The first email was addressed to a professor request
 Part B, I havve created a Social Media Etiquette Guide which includes 
 Do's and Don'ts of Social Media for college students.<br>
 [Social Media Checklist](task-4-email-etiquette/social-media-checklist.md)
+
+---
+
+## Task 5 — Cybercrime Awareness & Prevention 
+
+For Task 5, I learned about the concepts of cybercrime and ways of preventing cybercrime.
+
+Part A, I researched Identity Theft as my chosen
+cybercrime topic. I based my case study on a real published
+incident — the Aadhaar Data Breach of 2018 reported by
+The Tribune, which potentially exposed the personal data
+of over 1.1 billion Indian citizens.<br>
+[View Case Study](task-5-cybercrime/casestudy.md)
+
+Part B, I have created a
+comprehensive Stay Safe Online prevention checklist with
+specific tips relevant to college students in India,
+including UPI and financial safety measures.<br>
+[View Checklist](task-5-cybercrime/prevention-checklist.md) 
+
+---
+
+## Conclusion
+
+This project gave me a hands on introduction to the digital
+world as a first year student. Across 5 tasks
+I learned how to design visual content, build a professional
+online presence, practise coding, communicate formally, and
+stay safe online. The skills and platforms explored through
+this project — GitHub, LinkedIn, HackerRank, Google Workspace,
+and more — will continue to serve me throughout my academic
+and professional journey at VIT Bhopal University and beyond.
+
